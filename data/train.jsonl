@@ -28,3 +28,38 @@
 {"input": "What is cross-entropy loss?", "output": "Cross-entropy loss measures the difference between the predicted probability distribution and the true label. It is the standard loss function for classification tasks. A perfect prediction gives a loss of zero."}
 {"input": "What is precision and recall?", "output": "Precision is the proportion of positive predictions that were correct. Recall is the proportion of actual positives that were detected. There is usually a trade-off — increasing one tends to decrease the other."}
 {"input": "What is the difference between a parameter and a hyperparameter?", "output": "Parameters are the values the model learns from data during training, such as weights and biases. Hyperparameters are settings you choose before training, such as learning rate, batch size, and number of layers."}
+{"input":"What is accuracy?","output":"Accuracy measures how many predictions the model got correct out of all predictions."}
+{"input":"What is precision?","output":"Precision measures how many predicted positives are actually correct."}
+{"input":"What is recall?","output":"Recall measures how many actual positives were correctly identified."}
+{"input":"What is F1 score?","output":"F1 score is the harmonic mean of precision and recall."}
+{"input":"What is a confusion matrix?","output":"A confusion matrix shows true positives, true negatives, false positives, and false negatives."}
+{"input":"What is linear regression?","output":"Linear regression predicts a continuous value using a straight line relationship between variables."}
+{"input":"What is polynomial regression?","output":"Polynomial regression models nonlinear relationships using polynomial equations."}
+{"input":"What is regression in machine learning?","output":"Regression is a supervised learning method used to predict continuous values."}
+{"input":"What is mean squared error?","output":"Mean squared error measures the average squared difference between predictions and actual values."}
+{"input":"What is R-squared?","output":"R-squared measures how well a regression model explains the variance in the data."}
+{"input":"What is clustering?","output":"Clustering is an unsupervised learning technique that groups similar data points together."}
+{"input":"What is K-Means clustering?","output":"K-Means clustering divides data into K groups based on distance to cluster centers."}
+{"input":"What is hierarchical clustering?","output":"Hierarchical clustering builds a tree of clusters based on similarity."}
+{"input":"What is DBSCAN?","output":"DBSCAN is a clustering algorithm that groups dense regions and identifies noise points."}
+{"input":"What is unsupervised learning?","output":"Unsupervised learning finds patterns in data without labeled outputs."}
+{"input":"What is NLP?","output":"Natural Language Processing is a field of AI that focuses on understanding human language."}
+{"input":"What is tokenization?","output":"Tokenization splits text into smaller units called tokens."}
+{"input":"What is sentiment analysis?","output":"Sentiment analysis detects whether text is positive, negative, or neutral."}
+{"input":"What is word embedding?","output":"Word embeddings are numerical representations of words that capture meaning."}
+{"input":"What is a language model?","output":"A language model predicts the next word or token in a sequence."}
+{"input":"What is a neural network?","output":"A neural network is a system of connected layers that learns patterns from data."}
+{"input":"What is a CNN?","output":"A convolutional neural network is used for image processing and pattern detection."}
+{"input":"What is an RNN?","output":"A recurrent neural network processes sequential data like text or time series."}
+{"input":"What is a transformer?","output":"A transformer is a deep learning model that uses attention mechanisms to process sequences."}
+{"input":"What is attention mechanism?","output":"Attention allows models to focus on important parts of the input when making predictions."}
+{"input":"What is overfitting?","output":"Overfitting happens when a model learns training data too well and performs poorly on new data."}
+{"input":"What is underfitting?","output":"Underfitting happens when a model is too simple to learn patterns in data."}
+{"input":"What is gradient descent?","output":"Gradient descent is an optimization algorithm that minimizes loss by updating model weights."}
+{"input":"What is a loss function?","output":"A loss function measures how wrong a model's predictions are."}
+{"input":"What is a learning rate?","output":"Learning rate controls how big each update step is during training."}
+{"input":"What is regularization?","output":"Regularization prevents overfitting by penalizing large model weights."}
+{"input":"What is dropout?","output":"Dropout randomly disables neurons during training to improve generalization."}
+{"input":"What is batch size?","output":"Batch size is the number of samples processed before updating model weights."}
+{"input":"What is epoch?","output":"An epoch is one complete pass through the training dataset."}
+{"input":"What is fine-tuning?","output":"Fine-tuning adapts a pre-trained model to a specific task."}

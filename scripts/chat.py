@@ -25,7 +25,7 @@ BASE_MODEL  = "HuggingFaceTB/SmolLM2-135M-Instruct"
 ADAPTER_DIR = "outputs/lora-adapter"
 
 # Generation settings — experiment with these!
-MAX_NEW_TOKENS    = 150   # max length of the model's reply
+MAX_NEW_TOKENS    = 300   # max length of the model's reply
 TEMPERATURE       = 0.7   # 0 = deterministic, 1 = very creative
 TOP_P             = 0.9   # nucleus sampling: only top 90% of probability mass
 REPETITION_PENALTY = 1.15 # penalise repeated phrases (1.0 = off, 1.3 = strong)
